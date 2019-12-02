@@ -1,6 +1,6 @@
-# hello_rectangle
+# Quizzler
 
-A new Flutter application.
+A Flutter Quiz application.
 
 ## Getting Started
 
